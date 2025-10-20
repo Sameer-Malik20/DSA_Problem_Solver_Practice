@@ -280,7 +280,7 @@ Built with ❤️ for developers preparing for technical interviews
 
 ## 📧 Support
 
-For support, email your-email@example.com or open an issue in the repository.
+For support, email sameermalik63901@gmail.com or open an issue in the repository.
 
 ---
 
